@@ -1,4 +1,4 @@
-# Angular Http Search CEP
+# Angular Busca CEP
 
 Exemplo de aplicação para busca do endereço a partir do CEP usando API externa
 
