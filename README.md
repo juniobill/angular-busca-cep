@@ -1,4 +1,8 @@
-# AngularHelloWorld
+# Angular Http Search CEP
+
+Exemplo de aplicação para busca do endereço a partir do CEP usando API externa
+
+## Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
 
